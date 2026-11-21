@@ -1,0 +1,7 @@
+# Copy this file to banner.local.toml to customize it.
+# Relative paths are resolved from the project root. The layout sample is optional.
+presenter_name = "YOUR PRESENTER"
+presenter_reference = "assets/reference/presenter.png"
+layout_reference = "assets/reference/layout.png"
+# Leave blank to use the default layout. Record only approved changes.
+style_notes = ""

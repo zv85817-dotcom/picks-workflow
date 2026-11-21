@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing NBA Previews"
+  short_description: "NBA previews, predictions, and cover ideas"
+  default_prompt: "Write an NBA game preview in Chinese with predictions, key watch points, and an article cover image concept."
